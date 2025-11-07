@@ -1,0 +1,29 @@
+RELATÓRIO DE ANÁLISE DE DOCUMENTO
+==================================================
+
+🔢 ERROS DE SEQUÊNCIA NUMÉRICA
+--------------------------------------------------
+- Linha 1: ashduiad 
+O índice '3.' está fora de ordem. 
+A sequência correta esperava o índice '1.' nesta posição.
+- Linha 2: Testando conforme dito no item 1 
+O índice '1.' está fora de ordem. 
+A sequência correta esperava o índice '1.1.2.' nesta posição.
+- Linha 4: Testando 
+O índice '4.' está fora de ordem. 
+A sequência correta esperava o índice '3.' nesta posição.
+- Linha 5: Rute 
+O índice '21.1.' está fora de ordem. 
+A sequência correta esperava o índice '3.4.5.' nesta posição.
+- Linha 6: Conforme o item 2.1 
+O índice '1.1.2.' está fora de ordem. 
+A sequência correta esperava o índice '4.' nesta posição.
+- Linha 7: Testando 
+O índice '3.4.5.' está fora de ordem. 
+A sequência correta esperava o índice '21.1.' nesta posição.
+
+🔗 ERROS DE REFERÊNCIA
+--------------------------------------------------
+- Linha 5: referência o item '3.1' que não existe.
+- Linha 11: referência o item '2.1' que não existe.
+
