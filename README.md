@@ -14,6 +14,8 @@ Este projeto foi desenvolvido com foco em HTML, CSS e JavaScript, explorando con
 
 Além disso, o projeto inclui um modo claro/escuro (dark mode) para melhorar a usabilidade.
 
+O projeto está hospedado no GitHub Pages, permitindo que você o acesse diretamente pelo link [](), sem a necessidade de clonar o repositório.
+
 ## 🚀 Tecnologias Utilizadas
 - HTML5
 - CSS3
