@@ -1,0 +1,70 @@
+🎴 Pokédex Interativa
+
+É o meu primeiro projeto web, desenvolvido a partir de um tutorial do YouTube. O objetivo é criar uma interface interativa de Pokémons, exibindo informações como nome, número, tipo e descrição de cada personagem, apresentando uma interface interativa e utilizando conceitos e tecnologias básicas para o desenvolvimento web.
+
+
+📌 Sobre o Projeto
+
+Este projeto foi desenvolvido com foco em HTML, CSS e JavaScript, explorando conceitos de:
+
+Estruturação de páginas web
+Estilização com CSS
+Manipulação do DOM com JavaScript
+Responsividade e experiência do usuário
+
+Além disso, o projeto inclui um modo claro/escuro (dark mode) para melhorar a usabilidade.
+
+🚀 Tecnologias Utilizadas
+HTML5
+CSS3
+JavaScript
+Google Fonts (Poppins)
+Git & GitHub
+📁 Estrutura do Projeto
+Projeto_Pokemon/
+├── index.html
+├── README.md
+├── .gitignore
+│
+└── src/
+    ├── css/
+    │   ├── reset.css
+    │   ├── estilos.css
+    │   └── scrollbar.css
+    │
+    ├── js/
+    │   └── index.js
+    │
+    └── imagens/
+        ├── pokeball.png
+        ├── sun.png
+        ├── bulbasaur.gif
+        ├── ivysaur.gif
+        ├── venusaur.gif
+        ├── charmander.gif
+        ├── charmeleon.gif
+        ├── charizard.gif
+        ├── squirtle.gif
+        ├── wartortle.gif
+        ├── blastoise.gif
+        ├── caterpie.gif
+        └── ...
+🚀 Como Rodar o Projeto
+
+Siga este passo a passo para executar o projeto na sua máquina.
+
+1️⃣ Pré-requisitos
+
+Você só precisa de:
+
+Um navegador web (Google Chrome, Firefox, Edge, etc.)
+2️⃣ Clonar o Repositório
+git clone https://github.com/seu-usuario/projeto-pokemon.git
+cd projeto-pokemon
+3️⃣ Executando o Projeto
+
+Abra o arquivo index.html no navegador:
+
+Clique duas vezes no arquivo
+ou
+Use uma extensão como Live Server no VS Code
