@@ -1,4 +1,4 @@
-# 🎴 Pokédex Interativa
+# 🔴 Pokédex Interativa
 
 É o meu primeiro projeto web, desenvolvido a partir de um tutorial do YouTube. O objetivo é criar uma interface interativa de Pokémons, exibindo informações como nome, número, tipo e descrição de cada personagem, apresentando uma interface interativa e utilizando conceitos e tecnologias básicas para o desenvolvimento web.
 
@@ -18,7 +18,6 @@ Além disso, o projeto inclui um modo claro/escuro (dark mode) para melhorar a u
 - HTML5
 - CSS3
 - JavaScript
-- Google Fonts (Poppins)
 
 ## 📁 Estrutura do Projeto
 
@@ -61,6 +60,7 @@ Siga este passo a passo para executar o projeto na sua máquina.
 ### 1. Pré-requisitos
 - Navegador (Google Chrome, Firefox, Edge, etc.)
 
+O projeto está hospedado no próprio servidor do github, então vc pode acessa-lo diretamente pelo link [link] sem ter que clonar o repositório
 
 ### 2. Clonar o Repositório
 ```
