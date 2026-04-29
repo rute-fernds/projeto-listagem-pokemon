@@ -14,8 +14,6 @@ Este projeto foi desenvolvido com foco em HTML, CSS e JavaScript, explorando con
 
 Além disso, o projeto inclui um modo claro/escuro (dark mode) para melhorar a usabilidade.
 
-O projeto está hospedado no GitHub Pages, permitindo que você o acesse diretamente pelo link [](), sem a necessidade de clonar o repositório.
-
 ## 🚀 Tecnologias Utilizadas
 - HTML5
 - CSS3
@@ -57,12 +55,12 @@ Projeto_Pokemon/
 
 ## 🚀 Como Rodar o Projeto
 
-Siga este passo a passo para executar o projeto na sua máquina.
+O projeto está hospedado no GitHub Pages, permitindo que você o acesse diretamente pelo link [Pokédex](https://rute-fernds.github.io/projeto-listagem-pokemon/), sem a necessidade de clonar o repositório.
+
+Mas, caso queira ver detalhes do código e executar diretamente na sua máquina, siga o passo a passo abaixo:
 
 ### 1. Pré-requisitos
 - Navegador (Google Chrome, Firefox, Edge, etc.)
-
-O projeto está hospedado no próprio servidor do github, então vc pode acessa-lo diretamente pelo link [link] sem ter que clonar o repositório
 
 ### 2. Clonar o Repositório
 ```
