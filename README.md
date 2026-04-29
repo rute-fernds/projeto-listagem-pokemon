@@ -14,7 +14,7 @@ Este projeto foi desenvolvido com foco em HTML, CSS e JavaScript, explorando con
 
 Além disso, o projeto inclui um modo claro/escuro (dark mode) para melhorar a usabilidade.
 
-## 🚀 Tecnologias Utilizadas
+## 🖥️ Tecnologias Utilizadas
 - HTML5
 - CSS3
 - JavaScript
